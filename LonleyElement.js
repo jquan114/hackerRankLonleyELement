@@ -13,7 +13,5 @@ function lonelyinteger(a) {
 }
 
 
-Example
-  a = [1,2,3,4,3,2,1,]
-
-The unique element is  4
+// Example
+//   a = [1,2,3,4,3,2,1,] The unique element is  4
